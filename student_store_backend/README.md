@@ -14,7 +14,7 @@ cp .env.template .env
 
 And modify any of the necessary environment variables.
 
-Feel free to change the name of the SQL scripts and update the database name from `auth_starter` to whatever fits your application.
+Feel free to change the name of the SQL scripts and update the database name from `student-store` to whatever fits your application.
 
 Then (as long as PostgreSQL is running on your machine) create the db and tables by running:
 
